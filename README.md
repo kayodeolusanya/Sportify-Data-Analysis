@@ -156,4 +156,4 @@ This project demonstrates capabilities essential to modern BI roles:
 ## ⚠️ **Disclaimer**
 
 This project is created solely for **educational, analytical, and portfolio purposes**.
-It is **not affiliated with or endorsed by Spotify
+It is not affiliated with or endorsed by Spotify
