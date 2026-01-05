@@ -12,7 +12,7 @@ The dashboard transforms raw Spotify streaming history into **actionable insight
 This project demonstrates business-grade analytics design, strong DAX proficiency, and data storytelling aligned with real-world BI use cases.
 
 
- 🎯 Key Objectives
+## 🎯 Key Objectives
 
 * Analyze listening trends across albums, artists, and tracks
 * Track year-over-year (YoY) performance
@@ -64,10 +64,6 @@ Donut charts compare listening patterns:
 * Artists played (Weekday vs Weekend)
 * Tracks played (Weekday vs Weekend)
 
-Helps identify **habitual vs leisure listening behavior**.
-
----
-
 ### 🔹 Top Content Analysis
 
 * **Top 5 Albums** by total plays
@@ -79,15 +75,14 @@ Helps identify **habitual vs leisure listening behavior**.
 
 ### 🔹 Listening Time Heatmap
 
-A heatmap showing **listening hours vs days of the week**, highlighting:
+A heatmap showing listening hours vs days of the week, highlighting:
 
 * Peak listening hours
 * Low-activity periods
 * Daily listening patterns
 
-This visualization combines **time intelligence and conditional formatting** for intuitive insights.
+This visualization combines time intelligence and conditional formatting for intuitive insights.
 
----
 
 ### 🔹 Listening Behavior Scatter Analysis
 
@@ -97,9 +92,7 @@ Scatter plot analyzing:
 * Interactive thresholds for identifying outliers
 * Separation of high-engagement vs casual listening behavior
 
-Used to explore correlations between listening duration and frequency.
-
----
+<img src="sportifypix2.png" width = "900">
 
 ## 🧠 DAX & Analytics Techniques Used
 
@@ -111,68 +104,6 @@ Used to explore correlations between listening duration and frequency.
 * Ranking and Top-N analysis
 * Conditional formatting for insight emphasis
 
----
-
-## 🛠️ Tech Stack
-
-* **Power BI Desktop**
-* **DAX (Data Analysis Expressions)**
-* Spotify streaming history dataset
-* Custom Date table
-* Interactive slicers and drill-through design
-
----
-
-## 📂 Repository Contents
-
-```
-Sportify.pbix        # Power BI dashboard file
-/Images              # Dashboard screenshots
-README.md            # Project documentation
-```
-
----
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open in **Power BI Desktop**
-3. Use slicers to explore platforms, years, and behaviors
-4. Review KPIs, trends, and insights dynamically
-
----
-
-## 📈 Business Value Demonstrated
-
-* Behavioral analytics and trend detection
-* KPI-driven storytelling
-* Time-based performance comparison
-* Dashboard design aligned with executive and analyst use cases
-
----
-
 ## ⚠️ Disclaimer
 
 This project is for **educational and portfolio purposes only** and is **not affiliated with or endorsed by Spotify**.
-
----
-
-## 👤 Author
-
-**Kayode Gabriel Olusanya**
-Business Intelligence & Data Analyst
-📍 Canada
-🔗 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-
----
-
-### 🔥 Optional Enhancements (Highly Recommended)
-
-If you want, I can:
-
-* Rewrite this for **ATS-optimized portfolio wording**
-* Add a **“DAX Highlights” section with code snippets**
-* Help you choose the **best screenshots for GitHub**
-* Align it directly with **Canadian BI / Data Analyst job descriptions**
-
-Just tell me 👍
