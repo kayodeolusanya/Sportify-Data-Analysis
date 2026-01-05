@@ -11,7 +11,6 @@ The dashboard transforms raw Spotify streaming history into **actionable insight
 
 This project demonstrates business-grade analytics design, strong DAX proficiency, and data storytelling aligned with real-world BI use cases.
 
----
 
 ## 🎯 Key Objectives
 
@@ -57,8 +56,6 @@ Interactive slicers allow filtering by:
 * **Skip behavior**
 
 
----
-
 ### 🔹 Weekday vs Weekend Insights
 
 Donut charts compare listening patterns:
@@ -77,9 +74,8 @@ Helps identify **habitual vs leisure listening behavior**.
 * **Top 5 Artists** by total plays
 * **Top 5 Tracks** by total plays
 
-Optimized for ranking clarity and fast comparison.
+<img src="sportifypix1.png" width = "900">
 
-img sportifypix1.png
 
 ### 🔹 Listening Time Heatmap
 
