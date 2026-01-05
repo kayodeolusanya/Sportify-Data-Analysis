@@ -5,7 +5,7 @@
 
 ## ⭐ **Executive Summary**
 
-The **Spotify Listening Analytics Dashboard** is a professionally designed Power BI solution that transforms raw streaming data into **strategic insights about user behavior, engagement patterns, and content performance**.
+The Spotify Listening Analytics Dashboard is a professionally designed Power BI solution that transforms raw streaming data into strategic insights about user behavior, engagement patterns, and content performance.
 
 This project demonstrates:
 
